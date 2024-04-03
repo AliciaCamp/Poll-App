@@ -51,6 +51,7 @@ Create a pull request.
 
 Credits
 This project was created by Alicia Campbell.
+https://github.com/AliciaCamp/Poll-App.git
 
 Contact
 For any inquiries or support, please email aliciacampbell4990@gmail.com.
